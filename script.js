@@ -8,7 +8,7 @@ let form = document.getElementById('passwordForm')
 let ShowPassword = document.getElementById('ShowPassword')
 //end
 
-//Listen for the input for #'s
+//Listen for the input for Numbers's
 characterNumber.addEventListener('input', syncCharacterAmount)
 characterRange.addEventListener('input', syncCharacterAmount)
 //end
