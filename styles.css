@@ -8,6 +8,8 @@ body {
     margin: 0;
 }
 
+/*Password Generator Style*/
+
 .container{
     background-color: tomato;
     padding: 10px;
@@ -46,7 +48,7 @@ label{
     width: 30px;
 }
 
-.password-display{
+.show-password{
     color:black;
     background-color: white;
     padding: 10px;
@@ -60,7 +62,7 @@ label{
     border-radius: 10px;
 }
 
-.btn{
+.button{
     grid-column: span 2;
     background-color: transparent;
     border: 2px solid white;
@@ -71,6 +73,8 @@ label{
     border-radius: 10px;
 }
 
-.btn:hover{
+.button:hover{
     background-color: #FFFFFF33;
 }
+
+/*Password Generator Style*/
